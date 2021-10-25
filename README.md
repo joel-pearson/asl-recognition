@@ -6,7 +6,7 @@ Classifying gestures of the American-Sign-Language (ASL) alphabet and writing th
 This project was undertaken as part of my Bachelors dissertation in Computer Science. 
 
 This project classifies gestures of the ASL alphabet using a convolutional neural network in real time and displays the performed sequence. 
-The system utilises background subtraction methods to isolate the hand in the frame. 
+The system utilises background subtraction methods to isolate the hand in the frame. I also collected my own dataset using the script 'data-collection.py', which was used to train the model and can be found in the 'data/dataset' directory.
 
 The system has been trained to classify 27 different hand gestures, which include: 
 - the letter A-Z (excluding J and Z because they are not static gestures)
