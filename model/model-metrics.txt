@@ -1,0 +1,3 @@
+5 epochs / 1325 training steps
+loss: 0.1486 - accuracy: 0.9619 - val_loss: 0.0852 - val_accuracy: 0.9758
+Avg loss: 0.1169 	Avg acc: 0.96885
