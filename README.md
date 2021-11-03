@@ -1,6 +1,8 @@
 # asl-recognition
 Classifying gestures of the American-Sign-Language (ASL) alphabet and writing the performed sequence to a text output in real-time. 
 
+https://user-images.githubusercontent.com/64035546/140034890-507a8812-e30a-420c-b366-822dd0db0604.mp4
+
 ---
 
 This project was undertaken as part of my Bachelors dissertation in Computer Science. 
